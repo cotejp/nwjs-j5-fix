@@ -1,7 +1,7 @@
 # nwjs-j5-fix
 
 This Node.js module enables the use of the [Johnny-Five](http://johnny-five.io/) module inside 
-[NW.js](http://nwjs.io/) v0.13 and above. It fixes [issues](https://github.com/nwjs/nw.js/issues/586) 
+[NW.js](http://nwjs.io/) **v0.13 and above**. It fixes [issues](https://github.com/nwjs/nw.js/issues/586) 
 with the `process.stdin` object of NW.js. As of version 0.13-rc2 of NW.js, the problem still exists. 
 
 This is a modularized version of [Rick Waldron](https://github.com/rwaldron)'s code as seen in the 
