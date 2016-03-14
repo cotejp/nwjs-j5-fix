@@ -14,8 +14,13 @@ NW.js v0.13+. For more information, check out my tutorial on TangibleJS:
 
 ### Using it
 
-To use it, simply add this line of code to your project **before requiring Johnny-Five**:
+To use it, you first need to install it inside your projet using npm. From the command-line, at the
+root of your project:
+
+    npm install nwjs-j5-fix
+
+Then, simply add this line of code **before requiring Johnny-Five**:
 
     nw.require("nwjs-johnny-five-fix").fix();
 
-Cheers!
+That's it!
