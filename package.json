@@ -1,0 +1,30 @@
+{
+  "name": "nwjs-j5-fix",
+  "version": "1.0.0",
+  "description": "Some magic to make Johnny-Five and NW.js work together.",
+  "main": "nwjs-j5-fix.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cotejp/nwjs-johnny-five-fix.git"
+  },
+  "keywords": [
+    "nw.js",
+    "j5",
+    "johnny-five"
+  ],
+  "author": {
+    "name": "Rick Waldron <waldron.rick@gmail.com>",
+    "email": "waldron.rick@gmail.com"
+  },
+  "contributors": [
+    "Jean-Philippe Côté <jp@cote.cc>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cotejp/nwjs-johnny-five-fix/issues"
+  },
+  "homepage": "https://github.com/cotejp/nwjs-johnny-five-fix"
+}
