@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cotejp/nwjs-johnny-five-fix.git"
+    "url": "https://github.com/cotejp/nwjs-j5-fix.git"
   },
   "keywords": [
     "nw.js",
@@ -24,7 +24,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cotejp/nwjs-johnny-five-fix/issues"
+    "url": "https://github.com/cotejp/nwjs-j5-fix/issues"
   },
-  "homepage": "https://github.com/cotejp/nwjs-johnny-five-fix"
+  "homepage": "https://github.com/cotejp/nwjs-j5-fix"
 }
