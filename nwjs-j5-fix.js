@@ -2,6 +2,10 @@ module.exports = {
 
   fix: function() {
 
+    if (!process.versions.nw || parseFloat(process.versions.nw) < 0.13) {
+      throw "This module is only relevant when run under NW.js v0.13 or higher."
+    }
+
     var Readable = nw.require("stream").Readable;
     var util = nw.require("util");
 
