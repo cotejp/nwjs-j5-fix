@@ -1,6 +1,6 @@
 {
   "name": "nwjs-j5-fix",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Some magic to make Johnny-Five and NW.js work together.",
   "main": "nwjs-j5-fix.js",
   "scripts": {
