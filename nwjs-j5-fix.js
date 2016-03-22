@@ -1,4 +1,4 @@
-module.exports = {
+var obj = {
 
   fix: function() {
 
@@ -26,3 +26,7 @@ module.exports = {
   }
 
 };
+
+obj.abracadabra = obj.fix;
+
+module.exports = obj;
