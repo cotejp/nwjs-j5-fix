@@ -4,7 +4,7 @@
   "description": "Some magic to make Johnny-Five and NW.js work together.",
   "main": "nwjs-j5-fix.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "publish": "npm publish"
   },
   "repository": {
     "type": "git",
