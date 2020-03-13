@@ -21,6 +21,6 @@ the command-line, at the root of your project issue:
 
 Then, simply add this line of code **before requiring Johnny-Five**:
 
-    nw.require("nwjs-johnny-five-fix").fix();
+    nw.require("nwjs-j5-fix").fix();
 
 That's it!
