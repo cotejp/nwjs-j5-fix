@@ -26,5 +26,10 @@
   "bugs": {
     "url": "https://github.com/djipco/nwjs-j5-fix/issues"
   },
-  "homepage": "https://github.com/djipco/nwjs-j5-fix"
+  "homepage": "https://github.com/djipco/nwjs-j5-fix",
+  "files": [
+    "./nwjs-j5-fix.js",
+    "./package.json",
+    "./README.md"
+  ]
 }
