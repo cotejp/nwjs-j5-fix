@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cotejp/nwjs-j5-fix.git"
+    "url": "https://github.com/djipco/nwjs-j5-fix.git"
   },
   "keywords": [
     "nw.js",
@@ -20,11 +20,11 @@
     "email": "waldron.rick@gmail.com"
   },
   "contributors": [
-    "Jean-Philippe Côté <jp@cote.cc>"
+    "Jean-Philippe Côté <jp@djip.co>"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cotejp/nwjs-j5-fix/issues"
+    "url": "https://github.com/djipco/nwjs-j5-fix/issues"
   },
-  "homepage": "https://github.com/cotejp/nwjs-j5-fix"
+  "homepage": "https://github.com/djipco/nwjs-j5-fix"
 }
